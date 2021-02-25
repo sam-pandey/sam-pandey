@@ -1,6 +1,6 @@
 ### Hi there <img src="https://telegra.ph/file/13cec4eaa17ec6a277584.jpg" width="30px"> I'm [Sam Pandey](https://sampandey.tk/)!
 
-![Sam Pandey](https://i.imgur.com/0cqmL7P.png)
+![Sam Pandey](https://telegra.ph/file/13cec4eaa17ec6a277584.jpg)
 
 #### Welcome to my profile 💻
 
