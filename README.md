@@ -1,5 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" width="30px"> 
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/sam-pandey/count.svg" />
+
+<p align="center">
+  <a href="https://github.com/sam-pandey">
+    <img src="https://komarev.com/ghpvc/?username=sam-pandey&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 I'm [Sam Pandey](https://sampandey.tk/)!
 
